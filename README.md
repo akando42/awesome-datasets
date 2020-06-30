@@ -1,4 +1,5 @@
 # awesome-datasets
 
 ### Oceanic Data
-- [SailDrone API](https://developer-mission.saildrone.com/api-docs)
+- [Ocean Wind Data from Sail Drone](https://developer-mission.saildrone.com/api-docs)
+- [Bathymetric Data](https://download.gebco.net/)
